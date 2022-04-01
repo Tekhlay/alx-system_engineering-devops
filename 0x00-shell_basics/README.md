@@ -39,4 +39,4 @@ Exercise 17: mkdir -p welcome/to/school Create directory welcome in current dire
 
 Exercise 18: ls -pamv List all files and directories of the current directory, separated by commas. Directory names should end with a /. The listing should be alph ordered, except for dot (.) or dot dot (..), which should be listed at the beginning. The -a option is to show any hidden files. The -p option writes a / at the end of directory names. The -m option streams the output, separating each listing with commas.
 
-Exercise 19: 0 string HOLBERTON Holberton data !:mime school Create a magic file called school.mgc that can be used with the command file to detect school data files. school data files always contain "SCHOOL" at offset 0.
+Exercise 19: 0 string SCHOOL School data !:mime School Create a magic file called school.mgc that can be used with the command file to detect school data files. school data files always contain "SCHOOL" at offset 0.
