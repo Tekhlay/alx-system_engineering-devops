@@ -1,7 +1,5 @@
-able File  20 lines (19 sloc)  349 Bytes
-
 #!/usr/bin/env bash
-# displays  numbers 10 times.
+# displays Holberton School 10 times.
 
 COUNTER=1
 while [ $COUNTER -lt 101 ]
